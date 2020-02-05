@@ -1,0 +1,40 @@
+difference(){
+    hull(){
+                translate([19,0,0]){
+                    cylinder(100,8,8);
+                }
+                translate([33,0,0]){
+                    cylinder(100,9,9);
+                }
+                translate([50,0,0]){
+                    cylinder(100,7,7);
+                }
+                translate([65,0,0]){
+                    cylinder(100,7,7);
+                }
+                translate([78,0,0]){
+                    cylinder(100,7,7);
+                }
+                translate([93,0,0]){
+                    cylinder(100,4,4);
+                }
+                translate([5,0,0]){
+                    cylinder(100,4,4);
+                }
+         import("/Users/nathanday/Desktop/wingsail.stl");
+           
+    }        
+        translate([17,0,-25]){
+            cylinder(150,6.5,6.5);
+        }
+        translate([29,0,-25]){
+            cylinder(150,6.5,6.5);
+        }
+        translate([40,0,-25]){
+            cylinder(150,6.5,6.5);
+        }
+        translate([51,0,-25]){
+            cylinder(150,6.5,6.5);
+        }
+
+}   
