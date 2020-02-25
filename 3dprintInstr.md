@@ -32,3 +32,12 @@ MakerBot Settings
 5. Preview
 6. If everything looks OK, then Export to X3G
 7. copy X3G to sdisk
+
+On the 3d print machine:
+1. Print from SD Card
+2. Find your file
+3. click on center button.
+
+
+Keep in ventilated area.
+Keep an eye on it every 15 mins or so... 
